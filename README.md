@@ -2,9 +2,16 @@
 
 This repository includes data engineering project made using Azure tools - Azure Data Factory, Azure Databricks, and Azure Snyapse Analytics. It utilizes the [AdventureWorks Dataset](https://www.kaggle.com/datasets/ukveteran/adventure-works) which includes product sales and customer information over a period of 3 years.
 
+<img width="1528" height="355" alt="aaaaaaaaaaaaa" src="https://github.com/user-attachments/assets/98284557-1aef-497c-9da0-4315525fabfe" />
+
+
 ### Bronze Layer - Raw Data Ingestion using Azure Data Factory
 
+Creating a resource group with the following resources:
+
 <img width="1920" height="628" alt="image" src="https://github.com/user-attachments/assets/2e60caae-b7a6-4bd7-b87f-ad07b30aa840" />
+
+Creating a datapipeline in ADF to run a for each loop to fetch file (total 10 files) from github (HTTP source) to Azure Data lake inside bronze container
 
 <img width="1908" height="790" alt="image" src="https://github.com/user-attachments/assets/6ecbd101-5dcc-4960-9c10-4724d23a6656" />
 
