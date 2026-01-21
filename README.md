@@ -1,6 +1,6 @@
 # Adventure-Works-Data-Engineering-Project
 
-This repository includes the data engineering project made using Azure tools - Azure Data Factory, Azure Databricks, Azure Snyapse Analytics on the [AdventureWorks Dataset](https://www.kaggle.com/datasets/ukveteran/adventure-works) which includes product sales and customer information over a period of 3 years.
+This repository includes data engineering project made using Azure tools - Azure Data Factory, Azure Databricks, and Azure Snyapse Analytics. It utilizes the [AdventureWorks Dataset](https://www.kaggle.com/datasets/ukveteran/adventure-works) which includes product sales and customer information over a period of 3 years.
 
 ### Bronze Layer - Raw Data Ingestion using Azure Data Factory
 
