@@ -1,6 +1,6 @@
 # Adventure-Works-Data-Engineering-Project
 
-This repository includes data engineering project made using Azure tools - Azure Data Factory, Azure Databricks, and Azure Snyapse Analytics. It utilizes the [AdventureWorks Dataset](https://www.kaggle.com/datasets/ukveteran/adventure-works) which includes product sales and customer information over a period of 3 years.
+This repository includes data engineering project made using Azure tools - Azure Data Factory, Azure Databricks, and Azure Snyapse Analytics. It utilizes the [AdventureWorks Dataset](https://www.kaggle.com/datasets/ukveteran/adventure-works) which includes product sales and customer information over a period of 3 years. It follows the medallion architecture where data moves through three layers and then is served in PowerBI for analysis. 
 
 <img width="1528" height="355" alt="aaaaaaaaaaaaa" src="https://github.com/user-attachments/assets/98284557-1aef-497c-9da0-4315525fabfe" />
 
