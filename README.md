@@ -1,6 +1,6 @@
 # Adventure-Works-Data-Engineering-Project
 
-### Bronze Layer - Raw Data Ingestion using Azure Data Factory
+## Bronze Layer - Raw Data Ingestion using Azure Data Factory
 
 <img width="1920" height="628" alt="image" src="https://github.com/user-attachments/assets/2e60caae-b7a6-4bd7-b87f-ad07b30aa840" />
 
